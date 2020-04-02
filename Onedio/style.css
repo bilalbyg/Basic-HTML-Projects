@@ -1,0 +1,106 @@
+#logo2{
+	width:50%;
+}
+#a1{
+	text-decoration: none;
+	color:grey;
+}
+#a2{
+	width: 5%;
+	height: 5%;
+	vertical-align: center;
+}
+#a3{
+	border-style: none;
+	background-color: #f8f9fa; 
+}
+#a4{
+	color:black;
+	text-decoration: none;
+}
+#a6{
+	margin-left: -25px;
+}
+#a7{
+	font-family: Tahoma;
+}
+#a8{
+	width:110% !important;
+	margin-left: 25px !important;
+}
+#a9{
+	margin-top: 170px;
+}
+#a10{
+	width:120% !important;
+	margin-left: 25px !important;
+	
+}
+#a11{
+	width:120% !important;
+
+}
+#overlay1{
+	font-size: 18px;
+	color:white;
+	margin-top: 160px;
+	margin-left: 20px;
+}
+#overlay2{
+	font-size: 16px;
+	color:white;
+	margin-top: 130px;
+	margin-left: 10px;
+}
+#overlay3{
+	font-size: 14px;
+	color:white;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+#overlay4{
+	font-size: 14px;
+	color:white;
+	margin-top: 30px;
+	margin-left: 13px;
+}
+#overlaylink{
+	text-decoration: none !important;
+}
+@media (max-width: 576px){
+.card-img{
+	max-height: 300px;
+	max-width: 300px;
+	margin-top: 10px;
+	
+}
+#a8{
+	margin-left: -30px !important;
+}
+#a10{
+	margin-left: -5px !important;
+}
+#a11{
+	margin-left: -30px !important;
+}
+.card-img-overlay h3{
+	margin-top: 30px !important;
+	font-size: 14px !important;
+}
+#overlay1{
+	margin-right: -20px !important;
+	margin-top: 120px !important;
+}
+#overlay2{
+	margin-left: -30px !important;
+	margin-top: 180px !important;
+}
+#overlay3{
+	margin-left: -30px !important;
+	margin-top: 90px !important;
+}
+#overlay4{
+	margin-left: -30px !important;
+	margin-top: 60px !important;
+}
+}
