@@ -67,6 +67,30 @@
 #overlaylink{
 	text-decoration: none !important;
 }
+#brd1{
+	font-size: 12px;
+}
+#brd2{
+	font-size: 12px;
+	margin-top: 5px;
+}
+#brddiv{
+		margin-top: -20px;
+		margin-left: -15px;	
+}
+#author{
+	font-size: 12px;
+	margin-left: 10px;
+}
+#face{
+	background-color: #3b5998;
+}
+#twit{
+	 background-color: #00acee ;
+}
+#row1{
+	width: 450px;
+}
 @media (max-width: 576px){
 .card-img{
 	max-height: 300px;
@@ -74,6 +98,7 @@
 	margin-top: 10px;
 	
 }
+
 #a8{
 	margin-left: -30px !important;
 }
